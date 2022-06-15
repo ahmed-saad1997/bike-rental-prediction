@@ -1,2 +1,2 @@
 # bike-rental-prediction
-predict bike rental each hour (Kaggle competition)
+predict number of rented bikes each hour(Kaggle competition)
